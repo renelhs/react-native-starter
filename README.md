@@ -11,13 +11,9 @@ started. Based on what I think are good practices, references below.
 stacks separately.
   
 ## Project screens
-![Login](src/assets/screenshots/login.png)
+|![Login](src/assets/screenshots/login.png) | ![Dashboard](src/assets/screenshots/register.png)
 
-![Dashboard](src/assets/screenshots/register.png)
-
-![Home](src/assets/screenshots/home.png)
-
-![Settings](src/assets/screenshots/settings.png)
+|![Home](src/assets/screenshots/home.png) | ![Settings](src/assets/screenshots/settings.png)
 
 ## Start using the project
 1- Clone the repository.<br />
